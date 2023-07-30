@@ -27,7 +27,7 @@ export default defineUserConfig({
       description: '中国象棋开发',
     }
   },
-
+  
   // 主题配置
   theme: recoTheme(themeConfig),
 
@@ -40,7 +40,7 @@ export default defineUserConfig({
     // 站点地图
     sitemapPlugin({
       excludeUrls: ['/404.html'],
-      hostname: 'https://www.xiangqi.cn',
+      hostname: 'https://ways49.github.io',
     })
   ],
 
