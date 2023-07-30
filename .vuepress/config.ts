@@ -7,7 +7,7 @@ import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 export default defineUserConfig({
 
   // 基础配置
-  base: '/',
+  base: '/xiangqi-blog/',
   debug: false,
   port: 8080,
   head: [
