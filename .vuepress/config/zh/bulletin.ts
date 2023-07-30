@@ -19,7 +19,7 @@ export const bulletin = {
       children: [
         {
           text: '打赏',
-          link: '/docs/other/donate.html'
+          link: '/xiangqi-blog/docs/other/donate.html'
         }
       ]
     }
