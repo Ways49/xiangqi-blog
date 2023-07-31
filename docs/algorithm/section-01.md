@@ -11,7 +11,7 @@ description: 时间控制策略章节一
 
 - 图片引用例子
 
-![](../../../assets/2023/07/29/checker-board.png)
+![](../../assets/2023/07/29/checker-board.png)
 
 - 自定义容器例子
 
