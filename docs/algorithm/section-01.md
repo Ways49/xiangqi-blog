@@ -35,6 +35,21 @@ description: 时间控制策略章节一
 这是一个 details 标签
 :::
 
+- 代码段例子
+
+``` cpp
+#include <iostream>
+#include <ncurses.h>
+
+using namespace std;
+
+int main() {
+    cout << ("Hello Wolrd!") << endl;
+    getch();
+    return 0;
+}
+```
+
 - 任务列表例子
 
 - [ ] 学习
