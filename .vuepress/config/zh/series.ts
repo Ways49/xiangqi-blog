@@ -2,7 +2,7 @@
 export const series = {
   '/docs/algorithm/': [
     {
-      text: '时间控制策略',
+      text: '引言',
       children: [
         'section-01',
         'section-02'
