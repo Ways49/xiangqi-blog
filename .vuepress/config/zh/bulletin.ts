@@ -8,7 +8,7 @@ export const bulletin = {
     },
     {
       type: 'text',
-      content: `<img src="https://www.techgrow.cn/img/wx-group-qr-xiangqi.png" />`,
+      content: `<img src="https://ways49.github.io/xiangqi-blog/wx-group.png" />`,
       style: 'margin: 0 auto;'
     },
     {
