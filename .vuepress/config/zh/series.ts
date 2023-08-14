@@ -5,14 +5,15 @@ export const series = {
       text: '引言',
       children: [
         'section-01',
-        'section-02'
+        'section-02',
+        'section-03'
       ]
     },
     {
       text: '启发式搜索策略',
       children: [
-        'section-03',
-        'section-04'
+        'section-11',
+        'section-12'
       ]
     }
   ]
