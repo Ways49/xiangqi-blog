@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ways49.github.io/xiangqi-blog/sitemap.xml

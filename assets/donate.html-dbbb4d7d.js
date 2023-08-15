@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-76e616b0","path":"/docs/other/donate.html","title":"打赏","lang":"zh-CN","frontmatter":{"title":"打赏"},"headers":[],"git":{"createdTime":1692067356000,"updatedTime":1692067356000,"contributors":[{"name":"Ways49","email":"1436980420@qq.com","commits":1}]},"filePathRelative":"docs/other/donate.md"}');export{t as data};

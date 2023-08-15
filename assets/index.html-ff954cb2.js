@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-eda1fc4a","path":"/docs/algorithm/","title":"象棋引擎算法","lang":"zh-CN","frontmatter":{"title":"象棋引擎算法","description":"象棋引擎算法"},"headers":[],"git":{"createdTime":1692067356000,"updatedTime":1692067356000,"contributors":[{"name":"Ways49","email":"1436980420@qq.com","commits":1}]},"filePathRelative":"docs/algorithm/index.md"}');export{t as data};
