@@ -10,7 +10,7 @@ export const series = {
       ]
     },
     {
-      text: '启发式搜索策略',
+      text: '从图形界面开始',
       children: [
         'section-11',
         'section-12'
